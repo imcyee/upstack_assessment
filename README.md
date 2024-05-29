@@ -5,7 +5,7 @@ Solved by downgrading and adding babel plugin
 "@babel/plugin-transform-class-static-block"
  
 
-## Used Octokit as request
+## Used Octokit for request 
 Quite similar to axios but with additional type inference
 
 ## Used react native paper as UI component
