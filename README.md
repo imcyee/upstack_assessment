@@ -1,3 +1,22 @@
+
+Octokit update breaks build it is esm now.
+Some issue with that:
+Solved with downgrading and adding babel plugin
+"@babel/plugin-transform-class-static-block"
+
+Error reporting when offline, or missing connection is out of scope
+
+# Required Tools
+
+You're free to use any packages or tools necessary to build the app. However, we do have some tools that we would like to see utilized in the project as listed below:
+
+- Redux
+- Redux Saga
+- Axios
+- React Hook
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
